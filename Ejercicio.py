@@ -6,7 +6,7 @@ y capturarlos. Cada Pokemon tiene un valor (positivo) asociado y estara disponib
 
 
 """
-file_path = "C:\Users\gonra\Downloads\archive.zip"
+
 
 def es_solucion(solucion, capacidad):
     total = 0
